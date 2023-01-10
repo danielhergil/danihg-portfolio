@@ -1,0 +1,1 @@
+<span className="font-bold text-7xl text-burnt-sienna anim-typewriter line-1">hi, I'm Daniel ✌</span>
